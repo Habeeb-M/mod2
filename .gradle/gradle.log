@@ -1,0 +1,91 @@
+#################################################
+         ForgeGradle 2.3-SNAPSHOT-3996470        
+  https://github.com/MinecraftForge/ForgeGradle  
+#################################################
+                 Powered by MCP                  
+             http://modcoderpack.com             
+     by: Searge, ProfMobius, R4wk, ZeuX          
+     Fesh0r, IngisKahn, bspkrs, LexManos         
+#################################################
+file or directory 'C:\Users\habee\OneDrive\Desktop\mod\mod2\src\api\resources', not found
+All projects evaluated.
+Selected primary task 'build' from project :
+Tasks to be executed: [task ':deobfCompileDummyTask', task ':deobfProvidedDummyTask', task ':sourceApiJava', task ':compileApiJava', task ':processApiResources', task ':apiClasses', task ':sourceMainJava', task ':compileJava', task ':processResources', task ':classes', task ':jar', task ':sourceTestJava', task ':compileTestJava', task ':processTestResources', task ':testClasses', task ':test', task ':extractMcpData', task ':extractMcpMappings', task ':getVersionJson', task ':extractUserdev', task ':genSrgs', task ':reobfJar', task ':extractAnnotationsJar', task ':extractRangemapReplacedMain', task ':retromapReplacedMain', task ':sourceJar', task ':assemble', task ':check', task ':build']
+Creating In-memory cache of C:\Users\habee\OneDrive\Desktop\mod\mod2\.gradle\2.14\taskArtifacts\fileHashes.bin: MaxSize{1358400}
+Creating In-memory cache of C:\Users\habee\OneDrive\Desktop\mod\mod2\.gradle\2.14\taskArtifacts\treeSnapshots.bin: MaxSize{67900}
+Creating In-memory cache of C:\Users\habee\OneDrive\Desktop\mod\mod2\.gradle\2.14\taskArtifacts\treeSnapshotUsage.bin: MaxSize{67900}
+Creating In-memory cache of C:\Users\habee\OneDrive\Desktop\mod\mod2\.gradle\2.14\taskArtifacts\fileSnapshotsToTreeSnapshotsIndex.bin: MaxSize{33900}
+Creating In-memory cache of C:\Users\habee\OneDrive\Desktop\mod\mod2\.gradle\2.14\taskArtifacts\fileSnapshots.bin: MaxSize{33900}
+Creating In-memory cache of C:\Users\habee\OneDrive\Desktop\mod\mod2\.gradle\2.14\taskArtifacts\taskArtifacts.bin: MaxSize{6700}
+:deobfCompileDummyTask (Thread[Daemon worker,5,main]) started.
+:deobfCompileDummyTask
+Executing task ':deobfCompileDummyTask' (up-to-date check took 0.001 secs) due to:
+  Task has not declared any outputs.
+:deobfCompileDummyTask (Thread[Daemon worker,5,main]) completed. Took 0.024 secs.
+:deobfProvidedDummyTask (Thread[Daemon worker,5,main]) started.
+:deobfProvidedDummyTask
+Executing task ':deobfProvidedDummyTask' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:deobfProvidedDummyTask (Thread[Daemon worker,5,main]) completed. Took 0.005 secs.
+:sourceApiJava (Thread[Daemon worker,5,main]) started.
+:sourceApiJava
+Invalidating in-memory cache of C:\Users\habee\OneDrive\Desktop\mod\mod2\.gradle\2.14\taskArtifacts\treeSnapshotUsage.bin
+Invalidating in-memory cache of C:\Users\habee\OneDrive\Desktop\mod\mod2\.gradle\2.14\taskArtifacts\taskArtifacts.bin
+Invalidating in-memory cache of C:\Users\habee\OneDrive\Desktop\mod\mod2\.gradle\2.14\taskArtifacts\fileSnapshots.bin
+Invalidating in-memory cache of C:\Users\habee\OneDrive\Desktop\mod\mod2\.gradle\2.14\taskArtifacts\fileHashes.bin
+Invalidating in-memory cache of C:\Users\habee\OneDrive\Desktop\mod\mod2\.gradle\2.14\taskArtifacts\treeSnapshots.bin
+Invalidating in-memory cache of C:\Users\habee\OneDrive\Desktop\mod\mod2\.gradle\2.14\taskArtifacts\fileSnapshotsToTreeSnapshotsIndex.bin
+file or directory 'C:\Users\habee\OneDrive\Desktop\mod\mod2\src\api\java', not found
+Skipping task ':sourceApiJava' as it is up-to-date (took 0.113 secs).
+:sourceApiJava UP-TO-DATE
+:sourceApiJava (Thread[Daemon worker,5,main]) completed. Took 0.122 secs.
+:compileApiJava (Thread[Daemon worker,5,main]) started.
+:compileApiJava
+Skipping task ':compileApiJava' as it has no source files.
+:compileApiJava UP-TO-DATE
+:compileApiJava (Thread[Daemon worker,5,main]) completed. Took 0.003 secs.
+:processApiResources (Thread[Daemon worker,5,main]) started.
+:processApiResources
+file or directory 'C:\Users\habee\OneDrive\Desktop\mod\mod2\src\api\resources', not found
+Skipping task ':processApiResources' as it has no source files.
+:processApiResources UP-TO-DATE
+:processApiResources (Thread[Daemon worker,5,main]) completed. Took 0.002 secs.
+:apiClasses (Thread[Daemon worker,5,main]) started.
+:apiClasses
+Skipping task ':apiClasses' as it has no actions.
+:apiClasses UP-TO-DATE
+:apiClasses (Thread[Daemon worker,5,main]) completed. Took 0.001 secs.
+:sourceMainJava (Thread[Daemon worker,5,main]) started.
+:sourceMainJava
+Skipping task ':sourceMainJava' as it is up-to-date (took 0.011 secs).
+:sourceMainJava UP-TO-DATE
+:sourceMainJava (Thread[Daemon worker,5,main]) completed. Took 0.013 secs.
+:compileJava (Thread[Daemon worker,5,main]) started.
+:compileJava
+file or directory 'C:\Users\habee\OneDrive\Desktop\mod\mod2\libs', not found
+Executing task ':compileJava' (up-to-date check took 0.897 secs) due to:
+  No history is available.
+All input files are considered out-of-date for incremental task ':compileJava'.
+file or directory 'C:\Users\habee\OneDrive\Desktop\mod\mod2\libs', not found
+Compiling with JDK Java compiler API.
+C:\Users\habee\OneDrive\Desktop\mod\mod2\build\sources\main\java\com\example\examplemod\ExampleMod.java:18: error: cannot find symbol
+        System.out.println("DIRT BLOCK >> "+Blocks.DIRT.getUnlocalizedName());
+                                                       ^
+  symbol:   method getUnlocalizedName()
+  location: variable DIRT of type Block
+1 error
+:compileJava FAILED
+:compileJava (Thread[Daemon worker,5,main]) completed. Took 4.55 secs.
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':compileJava'.
+> Compilation failed; see the compiler error output for details.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 35.19 secs
