@@ -1,2 +1,29 @@
-# Google App Engine generated folder
-appengine-generated/
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+.gitignore
+.gitattributes
+gradle.properties
+gradlew
+gradlew.bat
+build.gradle
+gradle
