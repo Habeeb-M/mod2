@@ -3,6 +3,7 @@ package com.rustik;
 import com.rustik.blocks.ModBlocks;
 import com.rustik.items.ModItems;
 import com.rustik.proxy.CommonProxy;
+import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent;
@@ -44,6 +45,10 @@ public class rustikssecondmod {
         public static void registerModels(ModelRegistryEvent event) {
             ModItems.registerModels();
             ModBlocks.registerModels();
+        }
+        @SubscribeEvent
+        public static void registerBlocks(RegistryEvent.Register<Block> event) {
+            ModBlocks.register(event.getRegistry());
         }
     }
 }

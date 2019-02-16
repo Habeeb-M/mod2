@@ -7,11 +7,13 @@ import net.minecraftforge.registries.IForgeRegistry;
 
 public class ModBlocks {
 
-    public static BlockOre oreCopper = new BlockOre("ore_copper").setCreativeTab( CreativeTabs.MATERIALS);
+    public static BlockOre oreCopper = new BlockOre("ore_copper").setCreativeTab(CreativeTabs.MATERIALS);
+    public static BlockCropCorn cropCorn = new BlockCropCorn();
 
     public static void register(IForgeRegistry<Block> registry) {
         registry.registerAll(
-                oreCopper
+                oreCopper,
+                cropCorn
         );
     }
 
