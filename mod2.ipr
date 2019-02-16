@@ -169,6 +169,13 @@
       </item>
     </group>
   </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="habee">
+      <words>
+        <w>rustikssecondmod</w>
+      </words>
+    </dictionary>
+  </component>
   <component name="ProjectModuleManager">
     <modules>
       <module filepath="$PROJECT_DIR$/mod2.iml" fileurl="file://$PROJECT_DIR$/mod2.iml" />
