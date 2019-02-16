@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebeca0b2-ebfd-49c5-bff1-c0095b589660" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rustik/ItemModelProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rustik/blocks/BlockCropCorn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rustik/items/ItemCornSeed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/blockstates/crop_corn.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/models/item/corn.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/models/item/corn_seed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/textures/blocks/corn/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/textures/blocks/corn/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/textures/blocks/corn/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/textures/blocks/corn/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/textures/blocks/corn/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/textures/blocks/corn/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/textures/blocks/corn/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/textures/blocks/corn/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/textures/items/corn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/textures/items/corn_seed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mod2.iws" beforeDir="false" afterPath="$PROJECT_DIR$/mod2.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rustik/blocks/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rustik/blocks/ModBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rustik/items/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rustik/items/ModItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rustik/rustikssecondmod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rustik/rustikssecondmod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/blockstates/ore_copper.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/blockstates/ore_copper.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/lang/en_us.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rustik/items/ItemCornSeed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rustik/items/ItemCornSeed.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -76,11 +55,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/models/item/corn_seed.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="1" lean-forward="true" selection-end-line="5" selection-end-column="1" />
+              <caret line="5" column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rustik/items/ModItems.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rustik/blocks/ModBlocks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rustik/items/ItemCornSeed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,13 +156,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/rustik/blocks/BlockCropCorn.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/blockstates/cropcorn.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/lang/en_us.lang" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rustik/blocks/ModBlocks.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rustik/ItemModelProvider.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rustik/items/ItemCornSeed.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/blockstates/crop_corn.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/models/item/corn_seed.json" />
         <option value="$PROJECT_DIR$/src/main/java/com/rustik/items/ModItems.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/models/item/corn.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rustik/blocks/ModBlocks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rustik/items/ItemCornSeed.java" />
       </list>
     </option>
   </component>
@@ -159,7 +176,7 @@
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -296,8 +313,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -422,7 +439,7 @@
     <frame x="-7" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3124019" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32182103" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Build Variants" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -440,7 +457,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32890365" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32890365" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32890365" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32890365" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -504,9 +521,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/blockstates/ore_copper.">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/blockstates/ore_copper." />
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12-14.21.1.2443/snapshot/20170624/forgeSrc-1.12-14.21.1.2443.jar!/assets/minecraft/models/block/cube_all.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -538,13 +553,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rustik/crops/CropCorn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rustik/crops/CropCorn.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/rustik/rustikssecondmod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -576,16 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rustik/blocks/ModBlocks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -623,23 +622,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rustik/items/ModItems.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/models/item/corn_seed.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rustik/items/ItemCornSeed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="8" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -650,10 +636,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/rustikssecondmod/models/item/corn_seed.json">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rustik/items/ModItems.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="357">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rustik/blocks/ModBlocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rustik/items/ItemCornSeed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

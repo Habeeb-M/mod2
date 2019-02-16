@@ -14,9 +14,8 @@ public class ItemCornSeed extends ItemSeeds implements ItemModelProvider {
         setUnlocalizedName("corn_seed");
         setRegistryName("corn_seed");
     }
-
-    public void registerItemModel(Item item) {
-        rustikssecondmod.proxy.registerItemRenderer(item, 0, "corn_seed");
+    public void registerItemModel() {
+        rustikssecondmod.proxy.registerItemRenderer(this, 0, "corn_seed");
     }
 
 }
